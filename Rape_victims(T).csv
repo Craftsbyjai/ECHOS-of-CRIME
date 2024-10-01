@@ -1,0 +1,31 @@
+ID,NAME,AGE,GENITAL INJURY,EXTRAGENITAL INJURY,HEPATITS,HIV INFECTION,OTHER STI,BACTERIAL VAGINOSIS,PREGNENCY,PSYCHOLOGICAL TRAUMA,PTSD,CLOTHING,HAIR SAMPLES,FINGERNAIL CLIPPINGS & SCRAPING,BLOOD,SALIVA,SEMEN,DECISION
+1,Mia Baker,26,Not_injured,Not_injured,No,Negative,No,Yes,Positive,No,No,Ripped,Found,Not_found,Found,Not_found,Not_found,Rape
+2,Ava Morris,23,Injured,Injured,Yes,Positive,No,No,Negative,Yes,Yes,Foreign cloth,Found,Found,Not_found,Not_found,Not_found,Rape
+3,Zoe Lewis,20,Not_injured,Not_injured,No,Negative,No,No,Positive,Yes,No,Stained,Not_found,Found,Not_found,Not_found,Found,Rape
+4,Lily Wright,35,Not_injured,Not_injured,No,Negative,No,No,Positive,Yes,No,Foreign cloth,Not_found,Not_found,Found,Found,Found,Rape
+5,Sophia James,17,Not_injured,Not_injured,No,Negative,No,No,Negative,Yes,No,Ripped,Found,Found,Not_found,Not_found,Not_found,Abuse
+6,Chloe Green,32,Not_injured,Injured,No,Negative,Yes,Yes,Negative,No,No,Stained,Found,Not_found,Found,Found,Found,Rape
+7,Emma Nelson,24,Injured,Not_injured,Yes,Negative,No,Yes,Negative,No,No,Ripped,Found,Found,Not_found,Found,Not_found,Rape
+8,Avery Adams,16,Not_injured,Injured,No,Negative,No,No,Positive,Yes,Yes,Foreign cloth,Not_found,Not_found,Found,Not_found,Found,Rape
+9,Riley Rivera,30,Injured,Injured,No,Positive,Yes,No,Negative,No,No,Stained,Not_found,Found,Found,Found,Found,Rape
+10,Leah Cooper,18,Injured,Not_injured,No,Positive,No,Yes,Negative,Yes,No,Foreign cloth,Found,Found,Not_found,Found,Found,Rape
+11,Aria Knight,25,Not_injured,Injured,No,Positive,No,No,Negative,No,Yes,Ripped,Not_found,Not_found,Not_found,Not_found,Not_found,Abuse
+12,Harper Grant,19,Not_injured,Not_injured,No,Positive,Yes,No,Positive,Yes,Yes,Stained,Found,Found,Not_found,Not_found,Found,Rape
+13,Stella King,28,Injured,Not_injured,Yes,Positive,No,No,Positive,Yes,Yes,Clean,Found,Not_found,Found,Not_found,Found,Rape
+14,Nova Wright,30,Injured,Injured,No,Positive,No,No,Positive,No,No,Ripped,Not_found,Found,Not_found,Found,Found,Rape
+15,Iris Lopez,33,Not_injured,Injured,No,Negative,No,No,Negative,Yes,No,Stained,Found,Not_found,Found,Not_found,Not_found,Abuse
+16,Eden Adams,23,Not_injured,Not_injured,No,Negative,No,Yes,Positive,Yes,Yes,Clean,Found,Not_found,Not_found,Found,Found,Rape
+17,Mila Wilson,34,Not_injured,Injured,No,Negative,No,No,Negative,Yes,Yes,Ripped,Not_found,Found,Not_found,Not_found,Not_found,Abuse
+18,Nyla Smith,21,Not_injured,Injured,No,Positive,No,Yes,Positive,Yes,No,Stained,Not_found,Not_found,Found,Found,Found,Rape
+19,Luna Parker,25,Injured,Not_injured,No,Negative,No,No,Positive,Yes,No,Clean,Not_found,Found,Found,Not_found,Not_found,Rape
+20,Morgan Perez,26,Injured,Not_injured,No,Negative,Yes,Yes,Negative,No,No,Ripped,Not_found,Not_found,Found,Found,Found,Rape
+21,Kira Baker,33,Not_injured,Injured,Yes,Positive,No,No,Negative,No,No,Stained,Found,Found,Not_found,Found,Not_found,Rape
+22,Elle Brooks,17,Injured,Not_injured,Yes,Negative,Yes,Yes,Negative,No,No,Foreign cloth,Found,Found,Found,Not_found,Found,Rape
+23,Sadie Hayes,28,Not_injured,Injured,No,Positive,Yes,Yes,Positive,Yes,No,Ripped,Not_found,Found,Found,Found,Not_found,Rape
+24,Bailey West,29,Not_injured,Injured,No,Negative,No,No,Negative,Yes,Yes,Stained,Found,Found,Found,Not_found,Not_found,Abuse
+25,Harper Davis,33,Injured,Not_injured,No,Positive,Yes,No,Positive,Yes,Yes,Foreign cloth,Not_found,Not_found,Found,Not_found,Found,Rape
+26,Naomi Lee,23,Not_injured,Not_injured,Yes,Negative,Yes,No,Positive,Yes,No,Ripped,Found,Found,Not_found,Found,Not_found,Rape
+27,Aubrey Scott,28,Injured,Not_injured,No,Negative,No,No,Negative,No,No,Foreign cloth,Not_found,Found,Not_found,Found,Not_found,Abuse
+28,Peyton Cooper,25,Not_injured,Injured,Yes,Positive,Yes,No,Positive,Yes,Yes,Stained,Not_found,Not_found,Found,Found,Found,Rape
+29,Camila Flores,20,Not_injured,Not_injured,Yes,Negative,No,Yes,Positive,Yes,No,Ripped,Found,Found,Not_found,Not_found,Not_found,Rape
+30,Brooke Mitchell,26,Not_injured,Injured,Yes,Positive,No,No,Positive,Yes,Yes,Clean,Found,Not_found,Not_found,Found,Not_found,Rape
